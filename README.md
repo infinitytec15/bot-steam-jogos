@@ -142,7 +142,7 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
 - **Nome**: Gilberto Jr
 - **Email**: gilberto@infinitytec.info
-- **GitHub**: infinityetc15 ([https://github.com/seu-usuario](https://github.com/infinitytec15))
+- **GitHub**: infinityetc15 
 
 ---
 
