@@ -103,7 +103,7 @@ get_app_list()
 
 check_and_send_deal()
 
-schedule.every(1).minutes.do(check_and_send_deal)
+schedule.every(15).minutes.do(check_and_send_deal)
 
 while True:
     schedule.run_pending()
